@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|c:\\users\\renol\\onedrive\\desktop\\c#\\examno53\\examno53\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|solutionrelative:examno53\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|c:\\users\\renol\\onedrive\\desktop\\c#\\examno53\\examno53\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|solutionrelative:examno53\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|c:\\users\\renol\\onedrive\\desktop\\c#\\examno53\\examno53\\models\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|solutionrelative:examno53\\models\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|c:\\users\\renol\\onedrive\\desktop\\c#\\examno53\\examno53\\models\\newplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|solutionrelative:examno53\\models\\newplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|c:\\users\\renol\\onedrive\\desktop\\c#\\examno53\\examno53\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|solutionrelative:examno53\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|c:\\users\\renol\\onedrive\\desktop\\c#\\examno53\\examno53\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|solutionrelative:examno53\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|c:\\users\\renol\\onedrive\\desktop\\c#\\examno53\\examno53\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|solutionrelative:examno53\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|c:\\users\\renol\\onedrive\\desktop\\c#\\examno53\\examno53\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|solutionrelative:examno53\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|c:\\users\\renol\\onedrive\\desktop\\c#\\examno53\\examno53\\views\\user\\adultssuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|solutionrelative:examno53\\views\\user\\adultssuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|c:\\users\\renol\\onedrive\\desktop\\c#\\examno53\\examno53\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|solutionrelative:examno53\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|c:\\users\\renol\\onedrive\\desktop\\c#\\examno53\\examno53\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|solutionrelative:examno53\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|c:\\users\\renol\\onedrive\\desktop\\c#\\examno53\\examno53\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|solutionrelative:examno53\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|c:\\users\\renol\\onedrive\\desktop\\c#\\examno53\\examno53\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|solutionrelative:examno53\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|c:\\users\\renol\\onedrive\\desktop\\c#\\examno53\\examno53\\views\\user\\kidssuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|solutionrelative:examno53\\views\\user\\kidssuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|c:\\users\\renol\\onedrive\\desktop\\c#\\examno53\\examno53\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|solutionrelative:examno53\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|c:\\users\\renol\\onedrive\\desktop\\c#\\examno53\\examno53\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|solutionrelative:examno53\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|c:\\users\\renol\\onedrive\\desktop\\c#\\examno53\\examno53\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|solutionrelative:examno53\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|c:\\users\\renol\\onedrive\\desktop\\c#\\examno53\\examno53\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D85DFA-69A7-480E-8977-FD3DFA425453}|examno53\\examno53.csproj|solutionrelative:examno53\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Models\\UserForm.cs",
+              "RelativeDocumentMoniker": "examno53\\Models\\UserForm.cs",
+              "ToolTip": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Models\\UserForm.cs",
+              "RelativeToolTip": "examno53\\Models\\UserForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:15:59.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "examno53\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Controllers\\UserController.cs",
+              "RelativeToolTip": "examno53\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:17:50.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\appsettings.json",
+              "RelativeDocumentMoniker": "examno53\\appsettings.json",
+              "ToolTip": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\appsettings.json",
+              "RelativeToolTip": "examno53\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T12:29:31.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "examno53\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "examno53\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T11:59:14.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "examno53\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "examno53\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:52:27.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Newplace.cs",
+              "DocumentMoniker": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Models\\Newplace.cs",
+              "RelativeDocumentMoniker": "examno53\\Models\\Newplace.cs",
+              "ToolTip": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Models\\Newplace.cs",
+              "RelativeToolTip": "examno53\\Models\\Newplace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:01:25.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "examno53\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "examno53\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T12:33:29.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "examno53\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "examno53\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T13:26:05.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdultsSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Views\\user\\AdultsSuccess.cshtml",
+              "RelativeDocumentMoniker": "examno53\\Views\\user\\AdultsSuccess.cshtml",
+              "ToolTip": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Views\\user\\AdultsSuccess.cshtml",
+              "RelativeToolTip": "examno53\\Views\\user\\AdultsSuccess.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T13:23:57.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "examno53\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "examno53\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAIBJwB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T13:21:23.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Views\\user\\Index.cshtml",
+              "RelativeDocumentMoniker": "examno53\\Views\\user\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Views\\user\\Index.cshtml",
+              "RelativeToolTip": "examno53\\Views\\user\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAIBJwB8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T13:23:16.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "examno53\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "examno53\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T10:39:10.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "examno53\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "examno53\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T10:39:11.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KidsSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Views\\user\\KidsSuccess.cshtml",
+              "RelativeDocumentMoniker": "examno53\\Views\\user\\KidsSuccess.cshtml",
+              "ToolTip": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Views\\user\\KidsSuccess.cshtml",
+              "RelativeToolTip": "examno53\\Views\\user\\KidsSuccess.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T13:24:48.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "examno53\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "examno53\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T13:21:19.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "examno53\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "examno53\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T13:21:18.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Program.cs",
+              "RelativeDocumentMoniker": "examno53\\Program.cs",
+              "ToolTip": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\Program.cs",
+              "RelativeToolTip": "examno53\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:23:42.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "examno53\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Renol\\OneDrive\\Desktop\\C#\\examno53\\examno53\\appsettings.Development.json",
+              "RelativeToolTip": "examno53\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T12:29:35.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
